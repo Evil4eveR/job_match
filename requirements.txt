@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+pandas
+PyPDF2
+scikit-learn
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
+pyyaml

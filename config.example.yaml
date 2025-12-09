@@ -1,0 +1,22 @@
+keywords:
+  titles:
+    - "junior"
+    - "entry level"
+    - "graduate"
+  tech:
+    - "python"
+    - "sql"
+    - "linux"
+  locations:
+    - "remote"
+    - "hybrid"
+
+google_sheets:
+  spreadsheet_id: "YOUR_SPREADSHEET_ID_HERE"
+  range: "Sheet1!A2"
+
+resume:
+  path: "resume/MyResume.pdf"
+
+scoring:
+  min_score_to_apply: 5
